@@ -1,0 +1,83 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./src/assets/frontend.png",
+      "className": "picture",
+      "title": "Front-End",
+      "description": "I develop responsive, user-friendly web interfaces with HTML, CSS, JavaScript, and React."
+    },
+    {
+      "id": "2",
+      "src": "./src/assets/backend.png",
+      "className": "picture",
+      "title": "Back-End",
+      "description": "I develop scalable backend systems with Node.js, Express, and databases, ensuring secure APIs and optimal performance."
+    },
+    {
+      "id": "3",
+      "src": "./src/assets/apideveloper.png",
+      "className": "picture",
+      "title": "API Developer",
+      "description": "I develop high-performance, secure APIs with Node.js and Express for seamless integration and digital experiences."
+    },
+    {
+      "id": "4",
+      "src": "./src/assets/webdesign.png",
+      "className": "picture",
+      "title": "Webflow Designt",
+      "description": "I create dynamic, responsive websites that combine creativity and functionality for a seamless user experience."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./src/assets/placeholder-image.png",
+      "title": "Style & Structure: Dynamic Websites with HTML and CSS",
+      "description": "This project demonstrates the synergy of HTML and CSS to create visually appealing, well-structured, and interactive web pages.",
+      "link": "https://kannan280.github.io/Mockup7/"
+    },
+    {
+      "id": "2",
+      "src": "./src/assets/placeholder-image-1.png",
+      "title": "Web Harmony: Crafting Beautiful Front-End Experiences",
+      "description": "A project focused on combining aesthetics and functionality to deliver engaging and user-friendly front-end solutions.",
+      "link": "https://kannan280.github.io/Mockup6/"
+    },
+    {
+      "id": "3",
+      "src": "./src/assets/placeholder-image-2.png",
+      "title": "Pixel Perfect: A Responsive Web Design Showcase",
+      "description": "A project highlighting precise, pixel-perfect layouts with fully responsive designs tailored for seamless experiences on all devices.",
+      "link": "https://kannan280.github.io/Mockup5/"
+
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "description": "Organized a paper presentation on emerging technologies, managing sessions, coordination, and fostering innovation."
+    },
+    {
+      "id": "2",
+      "count": "4",
+      "description": "Completed NPTEL's Python for Data Science certification, gaining expertise in data analysis, visualization, and machine learning."
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "description": "Successfully organized an IEEE online quiz, promoting knowledge sharing and tech engagement."
+    },
+    {
+      "id": "4",
+      "count": "5",
+      "description": "Won 1st place in a circuit debugging competition, demonstrating strong problem-solving and electronics expertise."
+    },
+    {
+      "id": "5",
+      "count": "4",
+      "description": "Successfully completed German proficiency with advanced communication and cultural understanding."
+    }
+  ]
+}
