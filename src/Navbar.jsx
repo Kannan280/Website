@@ -113,7 +113,7 @@ function Navbar() {
         to="Contact"
         className="btn btn-outline-primary"
       >
-        Contact Me
+        Contact
       </Link>
     </nav>
   );
